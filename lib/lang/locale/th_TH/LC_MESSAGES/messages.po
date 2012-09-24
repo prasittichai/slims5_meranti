@@ -3786,7 +3786,7 @@ msgid "English"
 msgstr "English"
 
 #: lib/lang/localisation.php:62
-msgid "Indonesian"
+msgid "Thai"
 msgstr "ไทย"
 
 #: lib/contents/member.inc.php:28
